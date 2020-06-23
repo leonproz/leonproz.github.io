@@ -18,6 +18,9 @@ img {
 }
 
 table, td, th {
-  width: 100%;
   border: 1px solid black;
+}
+
+table {
+  width: 100%;
 }
