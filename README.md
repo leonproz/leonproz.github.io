@@ -1,2 +1,2 @@
-# leonproz.github.io
-LProject
+# medestudo.github.io
+MedEstudo
